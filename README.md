@@ -1,2 +1,4 @@
 # Mescours
-bibliothèque des cours reçus
+bibliothèque de mes connaissances 
+
+
